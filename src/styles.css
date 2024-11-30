@@ -2,6 +2,21 @@
     --coyoteBrown: #81613C;
 }
 
+/* PADDING */
+
+padding-16 {
+    padding: 0 16px;
+}
+
+/* LAYOUT */
+
+.flex-box-centered {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* FONTS */
+
 h1 {
     font-family: "Roboto", sans-serif;
     font-size: 40px;
@@ -28,4 +43,17 @@ p {
 .small-font {
     font-family: "Roboto", sans-serif;
     font-size: 4px;
+}
+
+/* ELEMENTS */
+
+#Navbar {
+    background: var(--coyoteBrown);
+    color: white;
+}
+
+/* MEDIA QUERIS */
+
+@media  screen  {
+    
 }
