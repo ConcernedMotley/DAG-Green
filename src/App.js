@@ -1,4 +1,5 @@
 import "./App.css";
+import withSplashScreen from './components/withSplashScreen';
 import "./styles.css";
 import Home from "./components/Home";
 
