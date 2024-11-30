@@ -15,6 +15,10 @@ padding-16 {
     justify-content: space-around;
 }
 
+.grid-test {
+    display: grid;
+}
+
 /* FONTS */
 
 h1 {
