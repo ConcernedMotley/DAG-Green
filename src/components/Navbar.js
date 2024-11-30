@@ -3,7 +3,7 @@ import "../styles.css";
 
 function Navbar() {
   return (
-    <div className="padding-16 flex-box-centered" id="Navbar">
+    <div className="padding-16 flex-box" id="Navbar">
       <h1>DAG-GREEN</h1>
     </div>
   );
