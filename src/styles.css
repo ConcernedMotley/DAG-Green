@@ -1,0 +1,61 @@
+:root {
+    --coyoteBrown: #81613C;
+}
+
+/* PADDING */
+
+padding-16 {
+    padding: 0 16px;
+}
+
+/* LAYOUT */
+
+.flex-box-centered {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* FONTS */
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px; 
+}
+
+.p-bold {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.small-font {
+    font-family: "Roboto", sans-serif;
+    font-size: 4px;
+}
+
+/* ELEMENTS */
+
+#Navbar {
+    background: var(--coyoteBrown);
+    color: white;
+}
+
+/* MEDIA QUERIS */
+
+@media  screen and (max-width: 480px)  {
+
+    
+    
+}
