@@ -2,46 +2,46 @@
   {
   "personalInformation": {
       "serviceNumber": "123456789",
-      "Rank": "Sergeant",
-      "First Name": "James",
+      "rank": "Sergeant",
+      "firstName": "James",
       "lastName": "Smith",
-      "Unit": "Bravo Company"
+      "unit": "Bravo Company"
   },
-  "Attendance Information": {
-      "Number Attended": 15,
-      "Last Exercise Name": "Operation Thunderbolt",
-      "Last Exercise Date": "2024-11-15"
+  "attendanceInformation": {
+      "numberAttended": 15,
+      "lastExerciseName": "Operation Thunderbolt",
+      "lastExerciseDate": "2024-11-15"
   },
-  "Training Information": {
-      "Safety Indoctrination": "Completed",
-      "Harassment and Violence Prevention for Employees": "Completed",
-      "Portable Fire Extinguisher": "Completed",
-      "CA Ethics": "Pending",
-      "Critical Incident": "Completed"
+  "trainingInformation": {
+      "safetyIndoctrination": "Completed",
+      "harassmentAndViolencePreventionForEmployees": "Completed",
+      "portableFireExtinguisher": "Completed",
+      "CAEthics": "Pending",
+      "criticalIncident": "Completed"
   },
-  "Individual Battle Task Standards": {
-      "Information Security": "Completed",
-      "Media Awareness": "Completed",
-      "Firing Personal Weapon": "Qualified",
-      "Perform CBRN Defense": "Qualified",
-      "First Aid": "Certified",
-      "Force Test": "Passed"
+  "individualBattleTaskStandards": {
+      "informationSecurity": "Completed",
+      "mediaAwareness": "Completed",
+      "firingPersonalWeapon": "Qualified",
+      "performCbrnDefense": "Qualified",
+      "firstAid": "Certified",
+      "forceTest": "Passed"
   },
   "ARV": {
-      "Medical": "Up-to-date",
-      "Security clearance": "Level 2",
-      "Will": "Filed",
-      "Terms of service": "Signed",
-      "Memorial Cross": "N/A",
-      "Next of Kin": "Jane Doe",
-      "Emergency Contacts": "Available",
-      "Identification disk": "Issued",
-      "Identification card": "Issued",
-      "Pers Tempo": "Normal",
-      "Family care plan": "Filed",
-      "MFRC registration": "Completed",
-      "DND 404": "Valid",
-      "Civ Drivers License": "Valid"
+      "medical": "Up-to-date",
+      "securityClearance": "Level 2",
+      "will": "Filed",
+      "termsOfService": "Signed",
+      "memorialCross": "N/A",
+      "nextOfKin": "Jane Doe",
+      "emergencyContacts": "Available",
+      "identificationDisk": "Issued",
+      "identificationCard": "Issued",
+      "persTempo": "Normal",
+      "familyCarePlan": "Filed",
+      "mfrcRegistration": "Completed",
+      "Dnd404": "Valid",
+      "civDriversLicense": "Valid"
   }
 }
 ]
