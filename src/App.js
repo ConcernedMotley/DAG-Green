@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import withSplashScreen from './components/withSplashScreen';
 
 function App() {
   return (
