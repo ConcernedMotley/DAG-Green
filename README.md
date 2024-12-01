@@ -5,11 +5,11 @@ A mobile Proof of Concept (PoC) app to support the Army Reserve Soldier Readines
 This project was created with [Node.js](https://nodejs.org/en/download/package-manager) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup Instructions
-The following wiil need to be installed to run this solution
+The following wiil need to be installed to run this solution:
 
 [Node.js](https://nodejs.org/en/download/package-manager)
 
-install the [create-react-app](https://github.com/facebook/create-react-app) package by running:
+Install the [create-react-app](https://github.com/facebook/create-react-app) package by running:
 ### `npm install react-scripts`
 
 
