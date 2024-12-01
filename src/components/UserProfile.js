@@ -6,12 +6,13 @@ export default function UserProfile({ user }) {
     <div className="flex-column">
       {user.map((item) => (
         <div className="userCard flex-column">
-          <div>
-            <h3>{item.personalInformation.lastName}</h3>
-            <p class="p-bold">4 PPLCI</p>
-          </div>
-          <p class="p-bold">Readiness: Yellow</p>
+        <div>
+          <h3>{item.personalInformation.rank} {item.personalInformation.lastName}, {item.personalInformation.firstName}</h3>
+          <p class="p-bold">4 PPLCI</p>
         </div>
+        <p class="p-bold">Readiness completion</p>
+        <progress value="0.25"></progress>
+      </div>     
       ))}
     </div>
   );

@@ -67,7 +67,7 @@ p {
 
 .userCard {
     width: 350px;
-    height: 160px;
+    height: fit-content;
     border-radius: 10px;
     box-shadow: 0 5px 10px rgba(59, 59, 59, 0.425);
     padding: 16px;
