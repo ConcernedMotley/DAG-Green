@@ -1,6 +1,6 @@
 # My Readiness App
 
-A mobile Proof of Concept (PoC) app to support the [https://www.canada.ca/en/army/corporate/reserve/soldier-readiness-policy.html](Canadian Army Reserve: Soldier Readiness Policy).
+A mobile Proof of Concept (PoC) app to support the [Canadian Army Reserve: Soldier Readiness Policy](https://www.canada.ca/en/army/corporate/reserve/soldier-readiness-policy.html).
 
 This project was created with [Node.js](https://nodejs.org/en/download/package-manager) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
