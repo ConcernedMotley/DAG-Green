@@ -1,47 +1,138 @@
 [
-  {
-  "personalInformation": {
-      "serviceNumber": "123456789",
-      "rank": "Sergeant",
-      "firstName": "James",
-      "lastName": "Smith",
-      "unit": "Bravo Company"
-  },
-  "attendanceInformation": {
-      "numberAttended": 15,
-      "lastExerciseName": "Operation Thunderbolt",
-      "lastExerciseDate": "2024-11-15"
-  },
-  "trainingInformation": {
-      "safetyIndoctrination": "Completed",
-      "harassmentAndViolencePreventionForEmployees": "Completed",
-      "portableFireExtinguisher": "Completed",
-      "CAEthics": "Pending",
-      "criticalIncident": "Completed"
-  },
-  "individualBattleTaskStandards": {
-      "informationSecurity": "Completed",
-      "mediaAwareness": "Completed",
-      "firingPersonalWeapon": "Qualified",
-      "performCbrnDefense": "Qualified",
-      "firstAid": "Certified",
-      "forceTest": "Passed"
-  },
-  "ARV": {
-      "medical": "Up-to-date",
-      "securityClearance": "Level 2",
-      "will": "Filed",
-      "termsOfService": "Signed",
-      "memorialCross": "N/A",
-      "nextOfKin": "Jane Doe",
-      "emergencyContacts": "Available",
-      "identificationDisk": "Issued",
-      "identificationCard": "Issued",
-      "persTempo": "Normal",
-      "familyCarePlan": "Filed",
-      "mfrcRegistration": "Completed",
-      "Dnd404": "Valid",
-      "civDriversLicense": "Valid"
-  }
-}
-]
+    {
+      "personalInformation": {
+        "serviceNumber": "123456789",
+        "rank": "Sergeant",
+        "firstName": "James",
+        "lastName": "Smith",
+        "unit": "Bravo Company"
+      },
+      "attendanceInformation": {
+        "numberAttended": 15,
+        "lastExerciseName": "Operation Thunderbolt",
+        "lastExerciseDate": "2024-11-15"
+      },
+      "trainingInformation": {
+        "safetyIndoctrination": "Completed",
+        "harassmentAndViolencePreventionForEmployees": "Completed",
+        "portableFireExtinguisher": "Completed",
+        "CAEthics": "Pending",
+        "criticalIncident": "Completed"
+      },
+      "individualBattleTaskStandards": {
+        "informationSecurity": "Completed",
+        "mediaAwareness": "Completed",
+        "firingPersonalWeapon": "Qualified",
+        "performCbrnDefense": "Qualified",
+        "firstAid": "Certified",
+        "forceTest": "Passed"
+      },
+      "ARV": {
+        "medical": "Up-to-date",
+        "securityClearance": "Level 2",
+        "will": "Filed",
+        "termsOfService": "Signed",
+        "memorialCross": "N/A",
+        "nextOfKin": "Jane Doe",
+        "emergencyContacts": "Available",
+        "identificationDisk": "Issued",
+        "identificationCard": "Issued",
+        "persTempo": "Normal",
+        "familyCarePlan": "Filed",
+        "mfrcRegistration": "Completed",
+        "Dnd404": "Valid",
+        "civDriversLicense": "Valid"
+      }
+    },
+    {
+      "personalInformation": {
+        "serviceNumber": "987654321",
+        "rank": "Corporal",
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "unit": "Alpha Company"
+      },
+      "attendanceInformation": {
+        "numberAttended": 20,
+        "lastExerciseName": "Operation Ironclad",
+        "lastExerciseDate": "2024-10-05"
+      },
+      "trainingInformation": {
+        "safetyIndoctrination": "Completed",
+        "harassmentAndViolencePreventionForEmployees": "Pending",
+        "portableFireExtinguisher": "Completed",
+        "CAEthics": "Completed",
+        "criticalIncident": "Pending"
+      },
+      "individualBattleTaskStandards": {
+        "informationSecurity": "Completed",
+        "mediaAwareness": "Pending",
+        "firingPersonalWeapon": "Qualified",
+        "performCbrnDefense": "Certified",
+        "firstAid": "Certified",
+        "forceTest": "Pending"
+      },
+      "ARV": {
+        "medical": "Up-to-date",
+        "securityClearance": "Level 3",
+        "will": "Pending",
+        "termsOfService": "Signed",
+        "memorialCross": "N/A",
+        "nextOfKin": "Michael Johnson",
+        "emergencyContacts": "Available",
+        "identificationDisk": "Issued",
+        "identificationCard": "Pending",
+        "persTempo": "Normal",
+        "familyCarePlan": "Filed",
+        "mfrcRegistration": "Pending",
+        "Dnd404": "Valid",
+        "civDriversLicense": "Valid"
+      }
+    },
+    {
+      "personalInformation": {
+        "serviceNumber": "456123789",
+        "rank": "Lieutenant",
+        "firstName": "Oliver",
+        "lastName": "Brown",
+        "unit": "Charlie Company"
+      },
+      "attendanceInformation": {
+        "numberAttended": 18,
+        "lastExerciseName": "Operation Guardian",
+        "lastExerciseDate": "2024-09-12"
+      },
+      "trainingInformation": {
+        "safetyIndoctrination": "Completed",
+        "harassmentAndViolencePreventionForEmployees": "Completed",
+        "portableFireExtinguisher": "Pending",
+        "CAEthics": "Completed",
+        "criticalIncident": "Completed"
+      },
+      "individualBattleTaskStandards": {
+        "informationSecurity": "Certified",
+        "mediaAwareness": "Completed",
+        "firingPersonalWeapon": "Certified",
+        "performCbrnDefense": "Qualified",
+        "firstAid": "Pending",
+        "forceTest": "Passed"
+      },
+      "ARV": {
+        "medical": "Pending",
+        "securityClearance": "Level 1",
+        "will": "Filed",
+        "termsOfService": "Signed",
+        "memorialCross": "N/A",
+        "nextOfKin": "Sophia Brown",
+        "emergencyContacts": "Available",
+        "identificationDisk": "Issued",
+        "identificationCard": "Issued",
+        "persTempo": "High",
+        "familyCarePlan": "Filed",
+        "mfrcRegistration": "Completed",
+        "Dnd404": "Pending",
+        "civDriversLicense": "Valid"
+      }
+    }
+  ]
+  
